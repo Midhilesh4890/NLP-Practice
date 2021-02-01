@@ -7,7 +7,7 @@ with open('README.md', 'r') as file:
 setuptools.setup(
 	name = 'textpreprocess_nlp', #this should be unique
 	include_package_data=True,
-	version = '0.10.3',
+	version = '0.0.3',
 	author = 'Midhilesh Momidi',
 	author_email = 'chintu.midhilesh@gmail.com',
 	description = 'This is text preprocessing package for NLP',
